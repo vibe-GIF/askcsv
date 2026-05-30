@@ -93,6 +93,7 @@ askcsv data.csv "客单价最高的渠道是？" --show-code
 | 服务 | `ASKCSV_BASE_URL` | `ASKCSV_MODEL`（示例） |
 |---|---|---|
 | OpenAI | （默认，可不填） | `gpt-4o-mini` |
+| 硅基流动 SiliconFlow | `https://api.siliconflow.cn/v1` | `deepseek-ai/DeepSeek-V3` |
 | DeepSeek | `https://api.deepseek.com/v1` | `deepseek-chat` |
 | Kimi / Moonshot | `https://api.moonshot.cn/v1` | `moonshot-v1-8k` |
 | 智谱 GLM | `https://open.bigmodel.cn/api/paas/v4` | `glm-4-flash` |
